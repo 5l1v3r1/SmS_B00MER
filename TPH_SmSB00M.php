@@ -146,7 +146,7 @@ h3 {color: #e8d90d;font-size: 15px;margin: 1px auto;text-align:center;text-trans
                  <!-- ADD API HERE -->
 
 <img src='http://www.quikr.com/makeadpremiumsms?mob=<?php echo $tel_no;?>&area=86&isBizMobile=true' alt=''/>
-<img src='http://offers.lenskart.com/sendopt.php?ph=<?php echo $tel_no;?>&operation=start&ts=1376044348191' alt=''/>
+<img src='http://shahxhtml.somee.com/bomber/pokkt.php?no=<?php echo $tel_no;?>&l=1' alt=''/>
 
 <?php
 	}
